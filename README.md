@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fawzi saeed mohammed 
+- 👋 Hi, I’m Fawzi saeed mohammed 
 - 👀 I’m interested in programing 
 - 🌱 I’m currently learning Data structure &Algorithims using c++ 
   
